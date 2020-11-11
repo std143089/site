@@ -22,3 +22,15 @@
 	path = _bibliography
 	url = https://github.com/pibook/bibliography.git
 	branch = master
+[submodule "gal"]
+	path = gal
+	url = https://github.com/std143089/site
+[submodule "_newgal"]
+	path = _newgal
+	url = https://github.com/std143089/site
+[submodule "_newgallery"]
+	path = _newgallery
+	url = https://github.com/std143089/_newgallery
+[submodule "_newbibliografy"]
+	path = _newbibliografy
+	url = https://github.com/std143089/_newbibliografy
